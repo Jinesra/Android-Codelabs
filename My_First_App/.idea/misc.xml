@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Git_Commits/My_First_App/app/src/main/res/drawable/dice_1.xml" value="0.2703125" />
+        <entry key="..\:/Git_Commits/My_First_App/app/src/main/res/drawable/dice_3.xml" value="0.17552083333333332" />
+        <entry key="..\:/Git_Commits/My_First_App/app/src/main/res/drawable/empty_dice.xml" value="0.2703125" />
+        <entry key="..\:/Git_Commits/My_First_App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Git_Commits/My_First_App/app/src/main/res/layout/activity_main.xml" value="0.17300724637681159" />
         <entry key="..\:/My_android_apps/app/src/main/res/layout/activity_main.xml" value="0.536" />
       </map>
     </option>
